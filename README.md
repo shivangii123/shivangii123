@@ -15,8 +15,10 @@ Passionate about building scalable web applications and solving real-world probl
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,react,redux,git,github,postman,vscode&perline=9" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangii123&show_icons=true&locale=en&layout=compact" alt="shivangii123" /></p>
+<img align="left" 
+src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangii123&show_icons=true&locale=en&layout=compact" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivangii123&show_icons=true&locale=en" alt="shivangii123" /></p>
 
+### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangii123&" alt="shivangii123" /></p>
