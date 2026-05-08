@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivangi Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">
+Passionate about building scalable web applications and solving real-world problems through clean and efficient code.
+</h2>
 
-- 🔭 I’m currently working on **Full Stack**
-
-- 🌱 I’m currently learning **Full Stack development, Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
