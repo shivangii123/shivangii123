@@ -15,10 +15,14 @@ Passionate about building scalable web applications and solving real-world probl
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,react,redux,git,github,postman,vscode&perline=9" />
 </p>
 
-<img align="center" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangii123&show_icons=true&locale=en&layout=compact" />
+<h3 align="center">📊 GitHub Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivangii123&show_icons=true&locale=en" alt="shivangii123" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivangii123&show_icons=true&theme=tokyonight" height="170"/>
 
-### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangii123&" alt="shivangii123" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangii123&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangii123&theme=tokyonight"/>
+</p>
