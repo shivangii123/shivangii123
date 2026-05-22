@@ -26,3 +26,8 @@ Passionate about building scalable web applications and solving real-world probl
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangii123&theme=tokyonight"/>
 </p>
+
+<h3 align="center">🐍 My Contributions</h3>
+<p align="center">
+  <img src="https://github.com/shivangii123/shivangii123/blob/output/snake.svg" alt="snake" />
+</p>
